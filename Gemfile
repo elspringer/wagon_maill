@@ -18,6 +18,7 @@ gem 'simple_form'
 gem 'uglifier'
 gem "letter_opener", group: :development
 gem 'postmark-rails'
+gem 'gibbon'
 
 group :development, :test do
   gem 'pry-byebug'
